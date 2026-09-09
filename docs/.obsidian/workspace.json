@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4c05011645b775c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c225f52b61cfb296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7031fe7120edeaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_gdd/systems/betting_system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "betting_system"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "884d9c5b883ada4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3237a09c5e2b0912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e7e353bc9072b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d44f067ad870476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a5d282baa240dde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00f904ba1ba6e93d",
+    "type": "split",
+    "children": [
+      {
+        "id": "76157a86de619245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231364a24a2c5d68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "42a8ce85339c3dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "61efeb3b915c935a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31fdbe666e86f426",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fdd8dc1797cfc0c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e7031fe7120edeaa",
+  "lastOpenFiles": [
+    "01_gdd/mechanics/placing a bet.md",
+    "01_gdd/mechanics/placed bet.md",
+    "01_gdd/mechanics/bot odds.md",
+    "01_gdd/mechanics/bot.md",
+    "01_gdd/mechanics/money.md",
+    "01_gdd/mechanics/bet card.md",
+    "01_gdd/mechanics/bet card.md",
+    "01_gdd/elements",
+    "01_gdd/systems/betting_system.md",
+    "01_gdd/systems/bots_fighting_system.md",
+    "01_gdd/scenes/betting_scene.md",
+    "01_gdd/mechanics",
+    "01_gdd/mechanics.md",
+    "00_overview.md",
+    "01_gdd/systems/news_system.md",
+    "02_technical_spec",
+    "01_gdd/systems/time_system.md",
+    "01_gdd/systems/economy_system.md",
+    "01_gdd/systems/life_simulation_system.md",
+    "01_gdd/systems/bots_simulation_system.md",
+    "Untitled.canvas",
+    "01_gdd/ui_flow.md",
+    "01_gdd/01_gdd.md",
+    "01_gdd/scenes",
+    "01_gdd/systems",
+    "01_gdd",
+    "overview"
+  ]
+}
