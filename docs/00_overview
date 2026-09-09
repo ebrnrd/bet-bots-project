@@ -1,0 +1,4 @@
+- One-paragraph pitch, genre, platform, target engine version (Godot 4.x specifics matter — 2D/3D, physics engine choice).
+- Core loop in one sentence.
+- Explicit **out of scope** list (prevents scope creep during implementation).
+- Art style reference (mood board or description) — used only for *asset naming/placeholder* purposes, not for the executor to design anything visually.
