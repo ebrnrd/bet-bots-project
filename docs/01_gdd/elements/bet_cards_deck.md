@@ -1,0 +1,1 @@
+All the [[bet_card]]s that the player currently owns.

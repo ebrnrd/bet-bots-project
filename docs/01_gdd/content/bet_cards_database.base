@@ -1,0 +1,17 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "01_gdd/content/bet_cards"
+    order:
+      - file.name
+      - amount
+      - cost
+      - effect
+    columnSize:
+      file.name: 722
+      note.amount: 159
+      note.cost: 167

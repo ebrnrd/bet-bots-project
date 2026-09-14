@@ -1,0 +1,1 @@
+This action moves the player from one [Time Chunk](time_system.md#Time%20Chunk) to the next.

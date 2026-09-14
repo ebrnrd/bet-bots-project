@@ -1,0 +1,1 @@
+Allows the player to add a [bet_card](bet_card.md) to their [bet_cards_deck](bet_cards_deck.md).

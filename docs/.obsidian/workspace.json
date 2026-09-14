@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_gdd/systems/betting_system.md",
+                "file": "01_gdd/systems/bots_simulation_system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "betting_system"
+              "title": "bots_simulation_system"
+            }
+          },
+          {
+            "id": "07bcf4af9dc44df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_gdd/systems/bots_simulation_system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bots_simulation_system"
             }
           }
         ]
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_overview.md",
+                "file": "01_gdd/systems/bots_simulation_system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 1022.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,32 +204,41 @@
   },
   "active": "e7031fe7120edeaa",
   "lastOpenFiles": [
-    "01_gdd/mechanics/placing a bet.md",
-    "01_gdd/mechanics/placed bet.md",
-    "01_gdd/mechanics/bot odds.md",
-    "01_gdd/mechanics/bot.md",
-    "01_gdd/mechanics/money.md",
-    "01_gdd/mechanics/bet card.md",
-    "01_gdd/mechanics/bet card.md",
-    "01_gdd/elements",
-    "01_gdd/systems/betting_system.md",
     "01_gdd/systems/bots_fighting_system.md",
-    "01_gdd/scenes/betting_scene.md",
-    "01_gdd/mechanics",
-    "01_gdd/mechanics.md",
-    "00_overview.md",
-    "01_gdd/systems/news_system.md",
-    "02_technical_spec",
-    "01_gdd/systems/time_system.md",
-    "01_gdd/systems/economy_system.md",
-    "01_gdd/systems/life_simulation_system.md",
+    "01_gdd/systems/betting_system.md",
+    "01_gdd/systems/bet_cards_system.md",
     "01_gdd/systems/bots_simulation_system.md",
+    "01_gdd/systems/odds_calculation_system.md",
+    "01_gdd/elements/bot_trait.md",
+    "01_gdd/content/bet_cards/bet_card_test_1.md",
+    "01_gdd/content/bet_cards_database.base",
+    "01_gdd/elements/bot.md",
+    "01_gdd/elements/bot_move.md",
+    "01_gdd/systems/time_system.md",
+    "01_gdd/systems/passive_items_system.md",
+    "01_gdd/systems/news_system.md",
+    "01_gdd/systems/life_simulation_system.md",
+    "01_gdd/systems/economy_system.md",
+    "01_gdd/mechanics/progress_time.md",
+    "01_gdd/mechanics/place_bet.md",
+    "01_gdd/mechanics/add_bet_card_to_deck.md",
+    "01_gdd/elements/bet_card.md",
+    "2026-09-12.md",
+    "01_gdd/elements/placed_bet.md",
+    "01_gdd/elements/passive_item.md",
+    "01_gdd/elements/bet_cards_deck.md",
+    "01_gdd/content/bet_cards",
+    "Untitled.md",
+    "01_gdd/content",
     "Untitled.canvas",
-    "01_gdd/ui_flow.md",
-    "01_gdd/01_gdd.md",
+    "01_gdd/elements/time_chunk.md",
+    "01_gdd/scenes/betting_scene.md",
+    "01_gdd/elements",
+    "01_gdd/elements",
+    "01_gdd/mechanics",
+    "02_technical_spec",
     "01_gdd/scenes",
     "01_gdd/systems",
-    "01_gdd",
-    "overview"
+    "01_gdd"
   ]
 }
