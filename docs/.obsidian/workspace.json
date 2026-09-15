@@ -190,6 +190,7 @@
   },
   "active": "07bcf4af9dc44df5",
   "lastOpenFiles": [
+    "_config.yml",
     "01_gdd/systems/bots_simulation_system.md",
     "docs/01_gdd/systems/bots_fighting_system.md",
     "docs/01_gdd/systems",
@@ -222,7 +223,6 @@
     "01_gdd/mechanics/add_bet_card_to_deck.md",
     "2026-09-12.md",
     "01_gdd/elements/passive_item.md",
-    "01_gdd/elements/bet_cards_deck.md",
     "01_gdd/content/bet_cards",
     "01_gdd/content",
     "01_gdd/elements",
