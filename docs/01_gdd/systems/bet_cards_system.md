@@ -1,15 +1,15 @@
 Governs the bet card deck: how cards are drawn, shuffled, and added to the player's deck as end-of-day rewards.
 # Dependencies
-- [time_system](01_gdd/systems/time_system.md)
-- [betting_system](01_gdd/systems/betting_system.md)
-- [economy_system](01_gdd/systems/economy_system.md)
+- [time_system](../systems/time_system.md)
+- [betting_system](../systems/betting_system.md)
+- [economy_system](../systems/economy_system.md)
 # Variables
 ## player_hand_size
 - default value: 3
-- description: the number of [bet cards](01_gdd/elements/bet_card.md) the player draws at the start of each day.
+- description: the number of [bet cards](../elements/bet_card.md) the player draws at the start of each day.
 ## max_bet_cards_reward
 - default value: 3
-- description: the total number of [bet cards](01_gdd/elements/bet_card.md) the player can choose from in the bet_cards_reward_scene at the end of each day.
+- description: the total number of [bet cards](../elements/bet_card.md) the player can choose from in the bet_cards_reward_scene at the end of each day.
 # Deck and hand
 Bets are represented by [bet card](bet card.md)s. At the beginning of each day, the player's deck is shuffled and a hand is drawn equal to [player_hand_size](#player_hand_size). The player cannot draw new cards during the day. Bet cards are only shown and interactable in the [betting_scene](betting_scene.md).
 # Adding cards to the deck
