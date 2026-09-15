@@ -1,6 +1,6 @@
 # dependencies
 - [time_system](01_gdd/systems/time_system.md)
-- [bots_fighting_system](/01_gdd/systems/bots_fighting_system.md)
+- [bots_fighting_system](01_gdd/systems/bots_fighting_system.md)
 # variables
 ## bots_number_on_new_game
 - default: 8

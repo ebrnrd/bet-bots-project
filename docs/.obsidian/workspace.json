@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_gdd/systems/bots_fighting_system.md",
+                "file": "00_overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bots_fighting_system"
+              "title": "00_overview"
             }
           }
         ]
@@ -191,6 +191,11 @@
   "active": "07bcf4af9dc44df5",
   "lastOpenFiles": [
     "01_gdd/systems/bots_simulation_system.md",
+    "docs/01_gdd/systems/bots_fighting_system.md",
+    "docs/01_gdd/systems",
+    "docs/01_gdd",
+    "docs",
+    "01_gdd/systems/bots_fighting_system.md",
     "01_gdd/systems/life_simulation_system.md",
     "01_gdd/systems/time_system.md",
     "01_gdd/mechanics/progress_time.md",
@@ -198,7 +203,6 @@
     "01_gdd/systems/odds_calculation_system.md",
     "01_gdd/systems/news_system.md",
     "01_gdd/systems/economy_system.md",
-    "01_gdd/systems/bots_fighting_system.md",
     "01_gdd/systems/betting_system.md",
     "01_gdd/elements/bot.md",
     "01_gdd/systems/bet_cards_system.md",
@@ -222,9 +226,6 @@
     "01_gdd/content/bet_cards",
     "01_gdd/content",
     "01_gdd/elements",
-    "01_gdd/elements",
-    "01_gdd/mechanics",
-    "02_technical_spec",
-    "01_gdd/scenes"
+    "01_gdd/elements"
   ]
 }

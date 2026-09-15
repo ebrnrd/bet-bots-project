@@ -1,3 +1,7 @@
+---
+layout: page
+title: Overview
+---
 ## 1. Game Overview
 
 Bet Bots is a linear narrative simulation game about a person addicted to betting on robot fights. The player manages their character's finances by placing bets on bots in a championship, while navigating the slow, quiet consequences of that addiction on their family life.
