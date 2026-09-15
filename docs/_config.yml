@@ -1,9 +1,0 @@
-# docs/_config.yml
-title: "Bet Bots Project Documentation"
-description: "System documentation and GDD"
-
-# Tells Jekyll to use a documentation theme
-theme: jekyll-theme-primer 
-
-# Strip extra file pathing on build
-permalink: pretty
