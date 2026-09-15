@@ -1,1 +1,9 @@
-remote_theme: "jekyll/minima@1e8a445"
+# docs/_config.yml
+title: "Bet Bots Project Documentation"
+description: "System documentation and GDD"
+
+# Tells Jekyll to use a documentation theme
+theme: jekyll-theme-primer 
+
+# Strip extra file pathing on build
+permalink: pretty
