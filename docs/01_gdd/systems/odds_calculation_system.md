@@ -4,7 +4,7 @@
 At the passing of each [time_chunk](time_system#time_chunk), the odds of all bots fighting that week are recalculated by blending two components: the bot's true skill probability and the public's perceived probability.
 ## Skill probability
 
-Each bot has an elo rating that updates after every fight based on the outcome and the opponent's rating, following the standard elo formula. A bot's [trait](bots_fighting_system.md#bot_traits) each carry a fixed point value, positive or negative, and a bot's [moves_sequence](bot.md#moves_sequence) is converted into a Moves Score. Both are added to the elo rating to produce an effective rating used only for odds calculation — not displayed on the leaderboard.
+Each bot has an elo rating that updates after every fight based on the outcome and the opponent's rating, following the standard elo formula. A bot's [trait](bots_fighting_system.md#bot_traits) each carry a fixed point value, positive or negative, and a bot's [moves_sequence](elements/bot.md#moves_sequence) is converted into a Moves Score. Both are added to the elo rating to produce an effective rating used only for odds calculation — not displayed on the leaderboard.
 
 ```
 effective_rating(bot) = elo_rating(bot) + trait_points(bot) + moves_score(bot)

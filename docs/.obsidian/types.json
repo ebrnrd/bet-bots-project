@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "bet_amount": "number",
-    "bet_cost": "number"
+    "bet_cost": "number",
+    "health range": "text"
   }
 }

@@ -5,3 +5,10 @@ How much damage the bot can take before KO.
 Allows the bot to perform moves. Some moves consume Stamina, others recover it.
 ## moves_sequence
 The sequence of [bot_moves](bots_fighting_system.md#bot_moves) that the bot performs during fights.
+# info
+## name
+The bot's name.
+## bio
+The bot's backstory.
+## color
+The bot's color.

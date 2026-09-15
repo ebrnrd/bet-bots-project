@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "01_gdd/content/bot_archetypes"
+    order:
+      - file.name
+      - health range
+      - stamina range
+      - attacks
+      - defends
+      - dashes
+      - randoms
+      - possible traits
+  - type: table
+    name: View
